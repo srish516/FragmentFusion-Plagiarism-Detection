@@ -1,0 +1,1 @@
+Researchers frequently use cosine similarity and lexical overlap to compare academic writing. Academic integrity requires proper citation when material is taken from other authors. A high similarity score might be caused by correctly cited quotations, common terminology, or unoriginal writing, and must be interpreted carefully.
